@@ -1,0 +1,16 @@
+{	
+    "DEFAULT_ROOT_FOLDER": "project",
+    "COLLAGE_WIDTH": 1920,
+    "COLLAGE_HEIGHT": 1080,
+    "TEXT_FONT": "data/arial.ttf",
+    "TEXT_SIZE": 30,
+    "TEMPLATE_DIR": "templates",
+    "TEMPLATE_DEFAULT": "T_06_01",
+    "COCO_LOGO": "data/coco_logo.png",
+    "UI_LOGO": "data/coco_ui.png",
+    "BORDER_WIDTH": "10px",
+    "PIC_EXTENSION": [".jpg",".png"],
+    "BKG_COLOR": [24,24,24],
+    "TEXT_COLOR": [255,255,255],
+    "BORDER_COLOR": [24,24,24]
+}

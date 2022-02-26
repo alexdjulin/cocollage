@@ -1,0 +1,8 @@
+X images specified  + 1 Template
+>>> Si template correspond > Export
+>>> Si template correspond pas > Cherche un template qui correspond > Export ou Error
+
+0 images specified + 1 Templage
+>>> Je charge toutes les images du dossier
+>>> Si template correspond > Export
+>>> Si template correspond pas > Cherche un template qui correspond > Export ou Error

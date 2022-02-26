@@ -1,0 +1,31 @@
+{
+    "ROOT_PATH": "C:/Users/natha/Documents/GIT/cocollage/project",
+    "ACTIVE_FOLDER": "collage01",
+    "CURRENT_MODE": "folder_mode",
+    "TITLE": "Living the Dream",
+    "SUBTITLE": "My Journey accross Europe",
+    "TIME": "June 2021",
+    "NOTES": "Photo batch 1",
+    "EXPORT_FOLDER": "C:\\Users\\natha\\Documents\\GIT\\cocollage\\project\\_output",
+    "PICTURE_NAME": "europe_trip_001",
+    "SELECTED_FOLDERS": [
+        "collage01",
+        "collage02",
+        "collage03"
+    ],
+    "SELECTED_PICTURES": [
+        "Alps_Switzerland.jpg",
+        "Athenee_Bucharest.jpg",
+        "Atomium_Brussels.jpg",
+        "BigBen_London.jpg",
+        "Brandenburger_Tor_Berlin.jpg",
+        "Colloseum_Rome.jpg",
+        "Little_Mermaid_Copenhagen.jpg",
+        "Sagrada_Familia_Barcelona.jpg"
+    ],
+    "TEMPLATE": "T_08_01.json  |  Images: 8  |  Template: 1",
+    "EDIT_COLLAGE_BOX": 1,
+    "OPEN_COLLAGE_BOX": 1,
+    "DESCRIPTION_BOX": 1,
+    "LOGO_BOX": 1
+}
